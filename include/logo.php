@@ -1,0 +1,1 @@
+<a href="/"><img src="<?=WFM_TEMPLATE_PATH ?>/images/logo.png" class="img-responsive" alt=""></a>
